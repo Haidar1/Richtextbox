@@ -1,0 +1,41 @@
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\bin\Richtext.dll
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\bin\Richtext.pdb
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\bin\Richtext.xml
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\obj\Debug\Richtext.Resources.resources
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\obj\Debug\Richtext.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\obj\Debug\Richtext.dll
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\obj\Debug\Richtext.xml
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\obj\Debug\Richtext.pdb
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\bin\FreeTextBox.dll
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\obj\Debug\Richtext.vbprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2012\Projects\Richtext\Richtext\obj\Debug\Richtext.dll.licenses
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\bin\Richtext.dll
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\bin\Richtext.pdb
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\bin\Richtext.xml
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.vbprojResolveAssemblyReference.cache
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.Resources.resources
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.vbproj.GenerateResource.Cache
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.dll.licenses
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.dll
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.xml
+C:\Users\IPP\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.pdb
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\bin\Richtext.dll
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\bin\Richtext.pdb
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\bin\Richtext.xml
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.vbprojResolveAssemblyReference.cache
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.Resources.resources
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.vbproj.GenerateResource.Cache
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.dll.licenses
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.dll
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.xml
+C:\Users\IPP\Desktop\Richtext - Copy\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.pdb
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\bin\Richtext.dll
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\bin\Richtext.pdb
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\bin\Richtext.xml
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.Resources.resources
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.dll.licenses
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.dll
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.xml
+C:\Users\user\Desktop\kano - Copy\Richtext\Richtext\obj\Debug\Richtext.pdb
